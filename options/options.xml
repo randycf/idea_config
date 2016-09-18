@@ -1,0 +1,48 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.16" value="13" />
+    <property name="installed.kotlin.plugin.version" value="1.0.1-release-IJ143-46" />
+    <property name="file.chooser.recent.files" value="D:/source/e-manager/ywtg&#10;D:/source/e-manager/code-generation&#10;D:/source/e-manager/ywtg_work/ywtg&#10;D:/source/POC&#10;D:/source/e-manager/ywtg_work/ywtg/src/main/java&#10;D:/Doc/01.本科教务/03.源代码/platform&#10;D:/source/e-manager/kitplatform&#10;D:/ProgramFiles/Java/jdk1.8.0_66&#10;D:/source/e-manager/ywtg_work/ywtg/src/main/webapp&#10;D:/ProgramFiles/apache-maven-3.3.9/conf/settings.xml&#10;D:/ProgramFiles/apache-maven-3.3.9&#10;D:/source/e-manager-mobile/plugins&#10;D:/source/e-manager-mobile/platforms&#10;D:/ProgramFiles/Java/jdk1.7.0_40&#10;D:/source/keystone/e-manager&#10;D:/source/e-manager-mobile&#10;D:/Doc/01.本科教务/03.源代码/jwxt&#10;D:/source/e-manager/ywtg_work/ywtg/src/main/webapp/WEB-INF/static/js&#10;D:/source/e-manager/ywtg_work/ywtg/src/main/webapp/WEB-INF/static/js/bugrepair&#10;C:/Users/fires_000/Desktop&#10;D:/source/e-manager/file&#10;D:/source/e-manager/file/lib&#10;D:/source/e-manager-mobile/www/js&#10;D:/source/e-manager-mobile/node_modules&#10;D:/source/e-manager/ywtg/src/main/webapp&#10;D:/source/e-manager/ywtg/web2&#10;D:/e-manager-svn/1_dev/1_trunk/src/1_Source Code/web/ywtg&#10;D:/Doc/Integration/e-manager-svn/1_dev/1_trunk/src/1_Source Code/Mobile/EGuardian&#10;D:/upload&#10;D:/Doc/Integration/e-manager-svn/1_dev/1_trunk/src/1_Source Code/web/ywtg" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="lastTip" value="4" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="PLUGIN_FILTER" value="console&#10;command line&#10;java" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.757109" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.8012685" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="true" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="last.imported.location" value="D:/source/e-manager/file" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.46740466" />
+    <property name="KEYMAP" value="forma" />
+  </component>
+</application>

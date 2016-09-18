@@ -1,0 +1,187 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:\source\e-manager\ywtg_work\ywtg" />
+        <option value="D:\source\e-manager\code-generation" />
+        <option value="D:\source\e-manager\ywtg" />
+        <option value="D:\source\POC" />
+        <option value="D:\Doc\01.本科教务\03.源代码\platform" />
+        <option value="D:\source\e-manager\kitplatform" />
+        <option value="D:\source\e-manager-mobile" />
+        <option value="D:\source\keystone\e-manager" />
+        <option value="D:\Doc\01.本科教务\03.源代码\jwxt" />
+        <option value="D:\source\e-manager\file" />
+        <option value="D:\e-manager-svn\1_dev\1_trunk\src\1_Source Code\web\ywtg" />
+        <option value="D:\Doc\Integration\e-manager-svn\1_dev\1_trunk\src\1_Source Code\Mobile\EGuardian" />
+        <option value="D:\Doc\Integration\e-manager-svn\1_dev\1_trunk\src\1_Source Code\web\ywtg" />
+        <option value="D:\Doc\Integration\ionic\1_dev\1_trunk\src\1_Source Code\web\code-generation" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:\source\e-manager\ywtg_work\ywtg" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:\source\e-manager\ywtg_work\ywtg" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:\Doc\01.本科教务\03.源代码\jwxt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1471576461849" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Doc\01.本科教务\03.源代码\platform">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1472704584400" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Doc\Integration\e-manager-svn\1_dev\1_trunk\src\1_Source Code\Mobile\EGuardian">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1468309069376" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Doc\Integration\e-manager-svn\1_dev\1_trunk\src\1_Source Code\web\ywtg">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1468232394263" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Doc\Integration\ionic\1_dev\1_trunk\src\1_Source Code\web\code-generation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1466644463547" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\e-manager-svn\1_dev\1_trunk\src\1_Source Code\web\ywtg">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1468316142118" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\source\POC">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1473728017578" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\source\e-manager-mobile">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1471914749752" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\source\e-manager\code-generation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1473839793494" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\source\e-manager\file">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1469959665183" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\source\e-manager\kitplatform">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1472704510092" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\source\e-manager\ywtg">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1473834965610" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\source\e-manager\ywtg_work\ywtg">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1473868678183" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\source\keystone\e-manager">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\ProgramFiles\JetBrains\IntelliJ_IDEA2016.1.1\bin" />
+              <option name="projectOpenTimestamp" value="1471829669237" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/Doc/01.本科教务/03.源代码" />
+  </component>
+</application>

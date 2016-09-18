@@ -1,0 +1,168 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="svn working copy format">
+      <project id="e-manager-mobile" values="1.7" collectionTime="1471941063749" />
+      <project id="code-generation" values="1.7" collectionTime="1473868678041" />
+      <project id="file" values="1.7" collectionTime="1470220603463" />
+      <project id="ywtg" values="1.7" collectionTime="1474124649105" />
+      <project id="EGuardian" values="1.7" collectionTime="1468309146745" />
+      <project id="kitplatform" values="1.7" collectionTime="1472813973294" />
+    </group>
+    <group name="Command line tool">
+      <project id="EGuardian" values="console in toolwindow" collectionTime="1468309146746" />
+      <project id="e-manager-mobile" values="console in toolwindow" collectionTime="1471941063788" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="e-manager-mobile" values="ECMAScript 5.1" collectionTime="1471941063789" />
+      <project id="code-generation" values="ECMAScript 5.1" collectionTime="1473868678042" />
+      <project id="bkjwxt" values="ECMAScript 5.1" collectionTime="1472745535159" />
+      <project id="jwxt" values="ECMAScript 5.1" collectionTime="1471576839531" />
+      <project id="file" values="ECMAScript 5.1" collectionTime="1470220603464" />
+      <project id="ywtg" values="ECMAScript 5.1" collectionTime="1474124649105" />
+      <project id="POC" values="ECMAScript 5.1" collectionTime="1473758519134" />
+      <project id="EGuardian" values="ECMAScript 5.1" collectionTime="1468309146746" />
+      <project id="kitplatform" values="ECMAScript 5.1" collectionTime="1472813973294" />
+      <project id="e-manager" values="ECMAScript 5.1" collectionTime="1471833931550" />
+    </group>
+    <group name="module type">
+      <project id="e-manager-mobile" values="JAVA_MODULE" collectionTime="1471941063484" />
+      <project id="code-generation" values="JAVA_MODULE" collectionTime="1473868673706" />
+      <project id="bkjwxt" values="JAVA_MODULE" collectionTime="1472745534742" />
+      <project id="jwxt" values="JAVA_MODULE" collectionTime="1471576839251" />
+      <project id="file" values="JAVA_MODULE" collectionTime="1470220603388" />
+      <project id="ywtg" values="JAVA_MODULE" collectionTime="1474124607724" />
+      <project id="POC" values="JAVA_MODULE" collectionTime="1473758518922" />
+      <project id="EGuardian" values="JAVA_MODULE" collectionTime="1468309146690" />
+      <project id="kitplatform" values="JAVA_MODULE" collectionTime="1472813972943" />
+      <project id="e-manager" values="JAVA_MODULE" collectionTime="1471833930610" />
+    </group>
+    <group name="vcs">
+      <project id="e-manager-mobile" values="svn" collectionTime="1471941063483" />
+      <project id="code-generation" values="svn" collectionTime="1473868673706" />
+      <project id="file" values="svn" collectionTime="1470220603388" />
+      <project id="ywtg" values="svn" collectionTime="1474124607723" />
+      <project id="EGuardian" values="svn" collectionTime="1468309146690" />
+      <project id="kitplatform" values="svn" collectionTime="1472813972942" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="code-generation" values="Application" collectionTime="1473868673707" />
+      <project id="ywtg" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1474124615867" />
+      <project id="POC" values="Application" collectionTime="1473758518924" />
+      <project id="file" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1470220603388" />
+      <project id="kitplatform" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1472813972943" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="POC" values="Application" collectionTime="1473758518924" />
+      <project id="kitplatform" values="JUnit" collectionTime="1472813972943" />
+    </group>
+    <group name="file-type">
+      <project id="e-manager-mobile" values="Images,SQLite Database,PLAIN_TEXT,XML,JavaScript,SCSS,HTML,Properties,CSS,JSON,UNKNOWN,SourceMap" collectionTime="1471941063651" />
+      <project id="code-generation" values="IDEA_MODULE,ARCHIVE,PLAIN_TEXT,JAVA,XML,JavaScript" collectionTime="1473868678041" />
+      <project id="bkjwxt" values="JSP,Native,JSON,CLASS,FTL,JavaScript,Properties,SourceMap,PLAIN_TEXT,XML,CSS,UNKNOWN,Images,Manifest,SWF,IDEA_MODULE,JAVA,HTML,ARCHIVE" collectionTime="1472745535027" />
+      <project id="jwxt" values="JAVA,XML,JSON,JSP,UNKNOWN,JavaScript,Properties,HTML,CSS,Native,Images,Manifest,PLAIN_TEXT,SourceMap,FTL,IDEA_MODULE" collectionTime="1471576839483" />
+      <project id="file" values="IDEA_MODULE,XML,Images,JavaScript,Properties,JAVA,JSP,ARCHIVE" collectionTime="1470220603463" />
+      <project id="ywtg" values="UNKNOWN,FTL,Images,CSS,Less,SourceMap,PLAIN_TEXT,JSON,SCSS,Properties,Stylus,XML,ARCHIVE,SWF,JavaScript,JSP,IDEA_MODULE,HTML,JAVA" collectionTime="1474124649104" />
+      <project id="POC" values="JAVA,IDEA_MODULE" collectionTime="1473758519033" />
+      <project id="EGuardian" values="JSON,HTML,C++,CSS,UNKNOWN,PLAIN_TEXT,Images,SCSS,JAVA,JavaScript,C#,Native,XML,ARCHIVE,SourceMap,SQLite Database,Properties" collectionTime="1468309146744" />
+      <project id="kitplatform" values="CSS,IDEA_MODULE,FTL,Images,JAVA,XML,UNKNOWN,PLAIN_TEXT,JavaScript,Properties,JSP" collectionTime="1472813973270" />
+      <project id="e-manager" values="JavaScript,PLAIN_TEXT,Images,Less,UNKNOWN,CSS,JSON,XML" collectionTime="1471833931029" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="e-manager-mobile" values="Directory,Project,Project" collectionTime="1471941063789" />
+      <project id="code-generation" values="Project,Project" collectionTime="1473868678042" />
+      <project id="bkjwxt" values="Project,Project" collectionTime="1472745535159" />
+      <project id="jwxt" values="Project,Project" collectionTime="1471576839530" />
+      <project id="file" values="Project,Project" collectionTime="1470220603464" />
+      <project id="ywtg" values="Project,Project" collectionTime="1474124649105" />
+      <project id="POC" values="Project,Project" collectionTime="1473758519134" />
+      <project id="EGuardian" values="Project,Directory,Project" collectionTime="1468309146746" />
+      <project id="kitplatform" values="Project,Project" collectionTime="1472813973294" />
+      <project id="e-manager" values="Directory,Project,Project" collectionTime="1471833931550" />
+    </group>
+    <group name="Spring MVC">
+      <project id="bkjwxt" values="mvcModelsInProject_0" collectionTime="1472745535187" />
+      <project id="file" values="viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,viewResolver_BeanNameViewResolver,fileset_webXml,viewResolvers_2,mvcModelsInProject_1" collectionTime="1470220603784" />
+      <project id="ywtg" values="viewResolver_UrlBasedViewResolver_.ftl,mvcModelsInProject_1,fileset_webXml,viewResolver_BeanNameViewResolver,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,viewResolvers_3" collectionTime="1474124679814" />
+      <project id="jwxt" values="viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_2,fileset_webXml,fileset_webXml,viewResolver_UrlBasedViewResolver_.ftl,mvcModelsInProject_1" collectionTime="1471576843875" />
+      <project id="kitplatform" values="fileset_webXml,fileset_webXml,viewResolvers_1,mvcModelsInProject_1,viewResolver_UrlBasedViewResolver_.ftl" collectionTime="1472813973466" />
+    </group>
+    <group name="spring">
+      <project id="bkjwxt" values="xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/data/mongo,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/cache,fileset_autodetect_NONE,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/cache,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/aop,fileset_configFiles5,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/aop" collectionTime="1472745535166" />
+      <project id="file" values="xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext" collectionTime="1470220603523" />
+      <project id="ywtg" values="xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/websocket,xmlNS_www.springframework.org/schema/util,xmlNS_www.springframework.org/schema/util,fileset_configFiles10,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context" collectionTime="1474124667501" />
+      <project id="jwxt" values="xmlNS_www.springframework.org/schema/p,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/cache,fileset_configFiles5,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/c,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/security,fileset_xmlContext,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/p,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/security,xmlNS_www.springframework.org/schema/mvc" collectionTime="1471576841092" />
+      <project id="kitplatform" values="xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/util,fileset_configFiles10,xmlNS_www.springframework.org/schema/context,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/context" collectionTime="1472813973303" />
+    </group>
+    <group name="frameworks">
+      <project id="code-generation" values="javaeeApplication" collectionTime="1473868673706" />
+      <project id="bkjwxt" values="Spring,web" collectionTime="1472745534742" />
+      <project id="file" values="web,Spring" collectionTime="1470220603388" />
+      <project id="ywtg" values="web,Spring" collectionTime="1474124607724" />
+      <project id="jwxt" values="Spring,web" collectionTime="1471576839250" />
+      <project id="kitplatform" values="web,Spring" collectionTime="1472813972943" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="e-manager-mobile" values="node_modules" collectionTime="1471941063789" />
+      <project id="e-manager" values="node_modules" collectionTime="1471833931550" />
+      <project id="EGuardian" values="node_modules" collectionTime="1468309146746" />
+    </group>
+    <group name="Git">
+      <project id="e-manager-mobile" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1471941063729" />
+      <project id="code-generation" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1473868678041" />
+      <project id="bkjwxt" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.ssh.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled" collectionTime="1472745535157" />
+      <project id="jwxt" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1471576839495" />
+      <project id="file" values="config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1470220603463" />
+      <project id="ywtg" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.force.push.enabled" collectionTime="1474124649105" />
+      <project id="POC" values="config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1473758519095" />
+      <project id="EGuardian" values="config.save.policy.STASH,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1468309146745" />
+      <project id="kitplatform" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1472813973294" />
+      <project id="e-manager" values="config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1471833931465" />
+    </group>
+    <group name="libraries">
+      <project id="e-manager-mobile" values="javaScript" collectionTime="1471941063671" />
+      <project id="bkjwxt" values="hibernate,spring-webflow,jsf,JsonProcessing,spring,JAX-WS,spring-security,JMS,EJB,TransactionJavaee,WebSocket,CDI,spring-mvc,BeanValidation" collectionTime="1472745535123" />
+      <project id="EGuardian" values="javaScript" collectionTime="1468309146744" />
+      <project id="file" values="BeanValidation,spring,spring-mvc" collectionTime="1470220603463" />
+      <project id="ywtg" values="BeanValidation,spring-mvc,spring" collectionTime="1474124649105" />
+      <project id="jwxt" values="CDI,JAX-WS,TransactionJavaee,spring,JMS,spring-webflow,spring-security,BeanValidation,spring-mvc,hibernate" collectionTime="1471576839485" />
+      <project id="kitplatform" values="spring-mvc,spring,BeanValidation" collectionTime="1472813973271" />
+      <project id="e-manager" values="javaScript" collectionTime="1471833931238" />
+    </group>
+    <group name="language-level">
+      <project id="e-manager-mobile" values="JDK_1_3" collectionTime="1471941063721" />
+      <project id="code-generation" values="JDK_1_6" collectionTime="1473868678041" />
+      <project id="bkjwxt" values="JDK_1_7" collectionTime="1472745535145" />
+      <project id="jwxt" values="JDK_1_7" collectionTime="1471576839493" />
+      <project id="file" values="JDK_1_6,JDK_1_7" collectionTime="1470220603463" />
+      <project id="ywtg" values="JDK_1_8,JDK_1_6" collectionTime="1474124649105" />
+      <project id="POC" values="JDK_1_7" collectionTime="1473758519093" />
+      <project id="EGuardian" values="JDK_1_3" collectionTime="1468309146744" />
+      <project id="kitplatform" values="JDK_1_5,JDK_1_8" collectionTime="1472813973271" />
+      <project id="e-manager" values="JDK_1_3" collectionTime="1471833931431" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.IGNORE_WHITESPACES_CHUNKS" count="2" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="176" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="193" />
+      <entry feature="execute.Application.Debug" count="3" />
+      <entry feature="execute.Application.Run" count="19" />
+      <entry feature="execute.JUnit.Debug" count="1" />
+      <entry feature="execute.JUnit.Run" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="7" />
+      <entry feature="ide.help.reference.toolWindows.hierarchy" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="3" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Ignored_Files" count="1" />
+      <entry feature="ide.settings.Live_Templates" count="8" />
+      <entry feature="ide.settings.Maven" count="7" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ideaapp.started" count="39" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="11" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>
